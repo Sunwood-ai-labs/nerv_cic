@@ -1,9 +1,13 @@
+![](https://huggingface.co/datasets/MakiAi/IconAssets/resolve/main/nerv_cic.png)
+
 # NERV CIC
 
+このプロジェクトは、NERV（特殊機関ネルフ）の指令センター用ダッシュボードを模したNext.jsアプリケーションです。エヴァンゲリオンの世界観をモチーフにした、リアルタイムモニタリングシステムのデモンストレーションです。
+
+## デモ動画
 
 https://github.com/user-attachments/assets/4586249e-0bb9-4b82-8ed9-b716e14a9a99
 
-このプロジェクトは、NERV（特殊機関ネルフ）の指令センター用ダッシュボードを模したNext.jsアプリケーションです。エヴァンゲリオンの世界観をモチーフにした、リアルタイムモニタリングシステムのデモンストレーションです。
 
 ## 機能
 
