@@ -16,6 +16,8 @@ https://github.com/user-attachments/assets/4586249e-0bb9-4b82-8ed9-b716e14a9a99
 
 ## 開発フロー
 
+![](docs/flow.png)
+
 このプロジェクトは以下のフローに沿って開発されています：
 
 1. **v0 (サイトの生成)**: 初期のサイト構造とコンテンツを生成します。
